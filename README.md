@@ -15,8 +15,13 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=koreasong97@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=koreasong97@naver.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left;">
+      <a href="mailto:koreasong97@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white">
+      </a>
     </div>
+    <br>
+    <div style="text-align: left;"></div>
+
+</div>
     
