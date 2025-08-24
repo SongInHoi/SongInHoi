@@ -19,7 +19,9 @@
       <a href="mailto:koreasong97@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white">
       </a>
+      <span>koreasong97@naver.com</span>
     </div>
+
     <br>
     <div style="text-align: left;"></div>
 
