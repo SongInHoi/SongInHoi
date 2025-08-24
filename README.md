@@ -21,7 +21,6 @@
       </a>
       <span>koreasong97@naver.com</span>
     </div>
-
     <br>
     <div style="text-align: left;"></div>
 
