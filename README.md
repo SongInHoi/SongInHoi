@@ -6,7 +6,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗃️ Personal Blog </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     <a href="https://dq-korea.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Developer Quarterly-000000?style=flat-square&logo=tistory&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Developer Quarterly-9B111E?style=flat-square&logo=tistory&logoColor=white"/>
     </a>
   </div> 
 </div>
